@@ -1,6 +1,6 @@
 # Simulasi Data - UAS <img src="https://img.shields.io/badge/r-%23276DC3.svg?&style=for-the-badge&logo=r&logoColor=white"/> 
 
-*Code by Datah, Mba Arin and the Ubi Gang. Rewritten by Fatah
+*Code by Fatah, Mba Arin and the Ubi Gang. Rewritten by Fatah*
 
 ## Cara Menggunakan
 
