@@ -454,6 +454,8 @@ Maka densitas proposal $q(\theta_{t+1}|\theta_t)$ adalah
 
 Sehingga peluang penerimaan $\alpha(\theta_{t+1},\theta_t)$ adalah
 
+![](img/peluang5.png)
+
 ```{r}
 sampleMH <- function(mu, n.sims, data){
  theta <- matrix(NA, nrow = n.sims, ncol = 1, dimnames = list(c(), c("theta")))
